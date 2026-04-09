@@ -8,6 +8,11 @@
 - glassmorphism package
 - google_fonts package
 
+# Features
+- User can click start and the game will automatically start
+- Users will need to click on the bubbles on the screen within a 30 second timer
+- When the timer is up the user will see the end screen with their score and a button to play again
+
 ## Getting Started
 
 1. Clone the repository
@@ -17,7 +22,6 @@ cd dreamy_arcade
 flutter pub get
 3. Run the app
 flutter run
-
 
 # Screens
 
